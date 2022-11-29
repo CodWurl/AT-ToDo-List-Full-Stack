@@ -3,4 +3,3 @@ A MERN Stack To Do list that features complete crud functionality backed by a da
 
 This was made over the course of 2 week in the NCSU Software Dev Bootcamp.
 
-DEMO FOR README FILE.gif
