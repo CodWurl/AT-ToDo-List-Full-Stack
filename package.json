@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "nodemon server/index.js",
-    "build": "npx tsc"
+    "build": "npx tsc",
+    "start": "node index.tsx"
   },
   "repository": {
     "type": "git",
@@ -26,13 +27,16 @@
     "express": "^4.18.1",
     "i": "^0.3.7",
     "mongoose": "^6.6.4",
+    "node": "^19.2.0",
     "npm": "^8.19.2",
+    "react": "^18.2.0",
     "reduct": "^3.3.1",
     "tsconfig": "^7.0.0",
     "typescript": "^4.9.3",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
+    "@types/react": "^18.0.25",
     "concurrently": "^7.4.0",
     "nodemon": "^2.0.20"
   }
