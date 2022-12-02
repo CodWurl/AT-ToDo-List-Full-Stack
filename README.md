@@ -32,4 +32,10 @@ To get started, open a terminal and use the node package manager (npm) to instal
 
 ## Issues
 
-Issues section
+The main issues that were encountered during this project was getting the functionality of deleting and editing to function properly as well as issues that were present in the conversion for js to ts/tsx which remains to be an on going fix to achieve 100 percent functionality.
+
+Features that are desired to be included for the future are the following.
+
+* Adding a title to specific list
+* Making a mobile version
+* Adding more styling and features to make the To Do List app more dynamic and interactive.
