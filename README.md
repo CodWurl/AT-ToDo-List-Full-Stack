@@ -7,7 +7,6 @@ How it Works !!!
 
 The To Do List functions as a digital all around to do list that you could use for anything involving brief note taking and with the ability to store that data to be accessed within a cloud database where it can also be modified.  A given user can simply type their desired note of their choosing and add that note, reminder or message to a list of other notes that may have been previously added.  Additionally this app should also give individuals the option of editing or deleting list criteria as they see fit within it's modification.
 
-
 To Do List : Demo
 
 ![DEMO FOR README resized](https://user-images.githubusercontent.com/46231725/204713835-4473d582-f266-4a13-93e9-cf2d76df77d6.gif)
@@ -15,7 +14,7 @@ To Do List : Demo
 These are the following technologies that were used to construct the 
 To Do List : 
 
-###Technologies Used :
+### Technologies Used
 
 Node,
 React,
@@ -26,21 +25,11 @@ CSS,
 Mongo DB Atlas (cloud)
 Mongoose
 
-###Technical Information:
+### Technical Information
 
-To get started, open a terminal and use the node package manager (npm) to install all necessary modules and dependencies defined in package.json.  If npm gives you errors when you first try to install npm try using the "cd" commandinto the directory folder.
+To get started, open a terminal and use the node package manager (npm) to install all necessary modules and dependencies defined in package.json.  If npm gives you errors when you first try to install npm try using the "cd" command into the directory folder.
 
 cd AT-ToDo-List-Full-Stack
 npm install
 
-
-###Issues:
-
-             
-
-
-
-
-
-
-
+### Issues:
