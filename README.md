@@ -14,14 +14,14 @@ The To Do List functions as a digital all around to do list that you could use f
 
 ## Technologies Used
 
-Node,
-React,
-Express,
-TypeScript/tsx,
-HTML,
-CSS,
-Mongo DB Atlas (cloud)
-Mongoose
+* Node,
+* React,
+* Express,
+* TypeScript/tsx,
+* HTML,
+* CSS,
+* Mongo DB Atlas (cloud)
+* Mongoose
 
 ## Technical Information
 
