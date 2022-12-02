@@ -27,8 +27,8 @@ Mongoose
 
 To get started, open a terminal and use the node package manager (npm) to install all necessary modules and dependencies defined in package.json.  If npm gives you errors when you first try to install npm try using the "cd" command into the directory folder.
 
-1. cd AT-ToDo-List-Full-Stack
-2. npm install
+* cd AT-ToDo-List-Full-Stack
+* npm install
 
 ## Issues
 
