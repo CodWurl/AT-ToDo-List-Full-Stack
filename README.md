@@ -12,9 +12,6 @@ The To Do List functions as a digital all around to do list that you could use f
 
 ![DEMO FOR README resized](https://user-images.githubusercontent.com/46231725/204713835-4473d582-f266-4a13-93e9-cf2d76df77d6.gif)
 
-These are the following technologies that were used to construct the
-To Do List :
-
 ## Technologies Used
 
 Node,
